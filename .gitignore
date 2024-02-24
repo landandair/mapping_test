@@ -1,0 +1,9 @@
+# Godot 4+ specific ignores
+.godot/
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/mapping_test.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
